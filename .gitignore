@@ -1,0 +1,11 @@
+# git ignore 
+
+
+data/crop_production.csv
+data/cleaned_crop_production.csv
+notehooks/Indian_Crop_Production_Analysis.ipynb
+outputs/
+report/Project_Report.pdf
+scripts/analyze_and_build.py
+scripts/build_notebook.py
+scripts/build_report.py
